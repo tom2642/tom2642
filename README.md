@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tom Tsui</h1>
+<h2 align="center">Hi 👋, I'm Tom Tsui</h2>
 <h3 align="center">A Backend Developer in Tokyo</h3>
-
-- 📫 How to reach me **tomtsui2642@gmail.com**
 
 - 📄 Know about my experiences [https://tom2642.github.io/resume/](https://tom2642.github.io/resume/)
 
