@@ -6,6 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tomtsui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomtsui" height="30" width="40" /></a>
+<a href="https://www.wantedly.com/id/jo_genei" target="blank"><img align="center" src="https://raw.githubusercontent.com/tom2642/tom2642/7f669cdf9690ca6f9fb9fa9afa7cb76d32cb4b9a/Wantedly_Mark_LightBG.svg" alt="tomtsui" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
