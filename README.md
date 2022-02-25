@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Tom Tsui</h2>
 <h3 align="center">A Backend Developer in Tokyo</h3>
 
-- 📄 Know about my experiences [https://tom2642.github.io/resume/](https://tom2642.github.io/resume/)
+- 📄 Know about my experiences [https://tom2642.github.io/resume/](https://tom2642.github.io/resume/), (日本語)[https://tom2642.github.io/rirekusyo/](https://tom2642.github.io/rirekusyo/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
