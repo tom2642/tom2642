@@ -2,7 +2,7 @@
 
 ### I'm working towards becoming a cloud/software engineer in Tokyo
 ### 東京でクラウド・ソフトウェアエンジニアを目指しています
-- 📄 [My Resume (English)](https://tom2642.github.io/resume/)
+- 📄 (updating) [My Resume (English)](https://tom2642.github.io/resume/)
 - 📄 [履歴書（日本語）](https://github.com/tom2642/rirekusyo/blob/1cce409d9b8829904e451205e8c83e0a448b838b/%E5%B1%A5%E6%AD%B4%E6%9B%B8_%E5%BE%90%20%E7%82%AB%E6%B0%B8.pdf)
 - 📄 [職務経歴書（日本語）](https://github.com/tom2642/rirekusyo/blob/1cce409d9b8829904e451205e8c83e0a448b838b/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8_%E5%BE%90%20%E7%82%AB%E6%B0%B8.pdf)
 
